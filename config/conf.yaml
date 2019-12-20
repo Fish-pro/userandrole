@@ -12,6 +12,6 @@ redis:
 mongodb:
   host: "47.99.56.228"
   port: "27017"
-  user: "root"
-  passwd: "123456"
+  user: ""
+  passwd: ""
   database: "testrole"
